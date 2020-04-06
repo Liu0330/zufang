@@ -1,4 +1,5 @@
 -- 如果存在名为zufang的数据库就删除它
+-- change
 drop database if exists zufang;
 
 -- 创建名为zufang的数据库并指定默认的字符集和校对规则
